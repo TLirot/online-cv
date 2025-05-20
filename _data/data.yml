@@ -19,7 +19,7 @@ sidebar:
   citizenship: Spain # Your citizenship, e.g., USA, Canada, etc. Required to show the citizenship link, city and city-link.
   citizenship-link: https://www.google.com/search?q=Spain
   citizenship-city: Granada # Your city, e.g., New York, Toronto, etc. Required to show the citizenship link, city and city-link.
-  citizenship-city-link: https://www.google.com/search?q=Granada # Your city link, e.g., www.google.com/search?q=New+York
+  citizenship-city-link: https://www.google.com/search?q=Granada+Spain # Your city link, e.g., www.google.com/search?q=New+York
   website: # Include the full website URL, including "http://" or "https://".
   linkedin-link: https://www.linkedin.com/in/miguel-toril-castillo/
   linkedin-name: Miguel Toril Castillo # Your LinkedIn name, e.g. Xiaoying Riley
