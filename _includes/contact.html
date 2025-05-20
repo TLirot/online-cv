@@ -15,14 +15,14 @@
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
-      <a href="{{sidebar.citizenship-link}}" target="_blank">{{ sidebar.citizenship ?? sidebar.citizenship-link }}</a> {% if sidebar.citizenship-city %} / <a href="{{sidebar.citizenship-city-link}}" target="_blank">{{ sidebar.citizenship-city ?? sidebar.citizenship-city-link }}</a> {% endif %}
+      <a href="{{sidebar.citizenship-link}}" target="_blank">{{ sidebar.citizenship ?? sidebar.citizenship-link }}</a> {% if sidebar.citizenship-city %} / <a href="{{ sidebar.citizenship-city-link }}" target="_blank">{{ sidebar.citizenship-city ?? sidebar.citizenship-city-link }}</a> {% endif %}
     </li>
     {% endif %}
 
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
       <!-- <a href="https://worldtimeapi.org/timezone/{{ sidebar.timezone }}" target="_blank">{{ sidebar.timezone }} Timezone</a> -->
-      <a style="text-decoration-line: none;">{{ sidebar.timezone }} Timezone</a>
+      <a style="text-decoration-line: none;">{{ sidebar.timezone }} Timezone {{ new Date().toLocaleString('es-ES', {hour: '2-digit',   hour12: false, timeZone: 'Europe/Athens' }) }}</a>
     </li>
     {% endif %}
 
