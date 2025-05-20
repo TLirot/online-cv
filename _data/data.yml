@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Miguel Toril Castillo
+  tagline: Frontend Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: migueltorilcastillo@gmail.com
+  phone: +34 600 76 96 83
+  timezone: Madrid/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/miguel-toril-castillo
+  xing:
+  github: TLirot
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,44 +38,46 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
-
-    - idiom: French
       level: Professional
 
     - idiom: Spanish
-      level: Professional
+      level: Native
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Computer Science
       link:
 
 
-    - item: Snowboarding
+    - item: Videogames
       link:
 
 
-    - item: Cooking
+    - item: Listen / Play Music
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I started working in 2018, focusing my career on web development using frontend development technologies.
+    I have always kept myself updated by using the latest versions of React, and currently Angular, as well as common
+    libraries in frontend development like Jest, Redux, NgRx, and many others, both for Angular and React.
+
+    Currently, my role is Senior Frontend Developer at Novatec-Gmbh, where I take on the responsibility of leading
+    frontend development in the team, as well as mentoring and training my colleagues. 
+    
+    One of my most important values is the sense of teamwork, as well as creating a good environment, since the
+    work atmosphere is everything in day-to-day life, and for me, it is a key point in feeling comfortable in my job.
+    
+    
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Web Application Development
+    university: IES Zaidin Vergeles
+    time: 2016 - 2018
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +86,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Audiovisual Communication
+    university: Granada University
+    time: 2013 - 2016
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,43 +101,51 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior Frontend Software Engineer
+    time: 2023 - Present
+    company: Novatec - Gmbh, Granada
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      At Novatec, I worked on developing a post-sales application for a German automotive company. 
+      This has allowed me to improve my tech stack, including working with Angular, as well as enabling me to make better 
+      development decisions by knowing technologies like React and being able to choose the best from each and their way of 
+      functioning to apply them to the project.
+     - Angular v18 (Signals)
+     - NgRx/store - Redux
+     - NgRx/component-store
+     - RxJs
+     - Jest
+     
+I am currently the technical lead for the frontend part of the team I work with, while also mentoring my colleagues. This keeps me up to date with the new trends in frontend development.
+
+Being able to work with colleagues and clients from another country has allowed me to develop my work in both English and Spanish without any problems.
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Frontend Software Engineer
+    time: 2018 - 2023
+    company: Fidesol, Granada
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+     I built a project from the ground up using Typescript, React, and Redux. I played a key role in making 
+     architectural decisions and I was involved in the development high-quality solutions, such as table 
+     virtualization and rendering control. Additionally, I supervised a team of three developers and collaborated
+     within a cross-functional team utilizing the SCRUM methodology.
+        - JS vanilla
+        - Typescript
+        - React
+        - Jest
+        - Encyme
+        . Cypress
   - role: UI Developer
     time: 2012 - 2014
-    company: Amazon, London
+    company: Intelligenia, Granada
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+     I have experience working with PHP, CSS3, and jQuery, utilizing these technologies to build and 
+     maintain websites. I provided support for WordPress, assisting several clients with their websites. 
+     This included installing and configuring various plugins, such as Visual Composer for page building and Yoast SEO 
+     to optimize content for search engines.
+        - PHP
+        - CSS3
+        - jQuery
+        - Wordpress
 
 certifications:
   title: Certifications
