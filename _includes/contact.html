@@ -22,7 +22,7 @@
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
       <!-- <a href="https://worldtimeapi.org/timezone/{{ sidebar.timezone }}" target="_blank">{{ sidebar.timezone }} Timezone</a> -->
-      <a style="text-decoration-line: none;">{{ sidebar.timezone }} Timezone {{ new Date().toLocaleString('es-ES', {hour: '2-digit',   hour12: false, timeZone: 'Europe/Athens' }) }}</a>
+      <a href="{{ sidebar.timezone-link }}" target="_blank">{{ sidebar.timezone }} Timezone </a>
     </li>
     {% endif %}
 

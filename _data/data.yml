@@ -16,6 +16,7 @@ sidebar:
   email: migueltorilcastillo@gmail.com
   phone: +34 600 76 96 83
   timezone: Madrid / Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone-link: https://www.timeanddate.com/worldclock/spain/madrid # Your timezone link, e.g., www.google.com/search?q=timezone+America/Havana
   citizenship: Spain # Your citizenship, e.g., USA, Canada, etc. Required to show the citizenship link, city and city-link.
   citizenship-link: https://www.google.com/search?q=Spain
   citizenship-city: Granada # Your city, e.g., New York, Toronto, etc. Required to show the citizenship link, city and city-link.
@@ -103,7 +104,7 @@ experiences:
     time: 2023 - Present
     company: Novatec Software, Granada
     details: |
-      At Novatec, I worked on developing a post-sales application for a German automotive company. 
+      At Novatec, I worked on developing an aftersales application for a German automotive company. 
       This has allowed me to improve my tech stack, including working with Angular, just as enabling me to make better 
       development decisions by knowing technologies from my previous experience and being able to choose the best features from each and apply them to the project.
 
