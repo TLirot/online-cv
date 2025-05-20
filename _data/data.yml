@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: migueltorilcastillo@gmail.com
   phone: +34 600 76 96 83
-  timezone: Madrid/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Madrid / Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/miguel-toril-castillo
@@ -269,23 +269,26 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Typescript
+    level: 90%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Javascript
+    level: 90%
 
   - name: Angular
-    level: 98%
+    level: 90%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: Redux pattern / NgRx-store
+    level: 90%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Jest
+    level: 90%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: React
+    level: 75%
+
+  - name: Vue (Personal learning in free time)
+    level: 50%
 # 
 # footer: >
   # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
