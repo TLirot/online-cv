@@ -280,17 +280,17 @@ skills:
   - name: Angular
     level: 90%
 
-  - name: Redux pattern / NgRx-store
-    level: 90%
-
-  - name: Jest
-    level: 95%
-
   - name: React
     level: 75%
 
   - name: Vue (Personal learning)
     level: 50%
+
+  - name: Redux pattern / NgRx-store
+    level: 90%
+
+  - name: Jest
+    level: 95%
 # 
 # footer: >
   # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
