@@ -65,7 +65,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I started working in 2018, focusing my career on web development using frontend development technologies. I have always kept myself updated by using the latest versions of React, and currently Angular, as well as common libraries in frontend development like Jest, Redux, NgRx, and many others, both for Angular and React.
+    I started working in 2018, focusing my career on frontend web development. I have always kept myself updated by using the latest versions of React, and currently Angular, just as common libraries in frontend development like Jest, Redux, NgRx, and many others, both for Angular and React.
 
     Currently, my role is Senior Frontend Developer at Novatec Software, where I take on the responsibility of leading frontend development in the team, as well as mentoring and training my colleagues. 
     
@@ -78,25 +78,23 @@ education:
   - degree: Web Application Development
     university: IES Zaidin Vergeles
     time: 2016 - 2018
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    # details: Describe your study here lorem ipsum dolor sit amet, consectetuer
+      # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      # sociis natoque penatibus et magnis dis parturient montes, nascetur
+      # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      # pretium quis, sem.
+        # - Bullet point
+        # - Bullet point
   - degree: Audiovisual Communication
     university: Granada University
     time: 2013 - 2016
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    # details: Describe your study here lorem ipsum dolor sit amet, consectetuer
+      # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      # sociis natoque penatibus et magnis dis parturient montes, nascetur
+      # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      # pretium quis, sem.
+        # - Bullet point
+        # - Bullet point
 
 experiences:
   title: Experiences
@@ -106,11 +104,10 @@ experiences:
     company: Novatec Software, Granada
     details: |
       At Novatec, I worked on developing a post-sales application for a German automotive company. 
-      This has allowed me to improve my tech stack, including working with Angular, as well as enabling me to make better 
-      development decisions by knowing technologies like React and being able to choose the best from each and their way of 
-      functioning to apply them to the project.
+      This has allowed me to improve my tech stack, including working with Angular, just as enabling me to make better 
+      development decisions by knowing technologies from my previous experience and being able to choose the best features from each and apply them to the project.
 
-      I am currently the technical lead for the frontend part of the team I work with, while also mentoring my colleagues. This keeps me up to date with the new trends in frontend development.
+      I am currently the frontend technical lead for my team, while also mentoring my colleagues. This allows me to stay up to date with the latest trends in frontend development.
 
       Being able to work with colleagues and clients from another country has allowed me to develop my work in both English and Spanish without any problems.
 
@@ -124,25 +121,26 @@ experiences:
     company: Fidesol, Granada
     details: |
      I built a project from the ground up using Typescript, React, and Redux. I played a key role in making 
-     architectural decisions and I was involved in the development high-quality solutions, such as table 
+     architectural decisions and I was involved in the development of high-quality solutions, such as table 
      virtualization and rendering control. Additionally, I supervised a team of three developers and collaborated
      within a cross-functional team utilizing the SCRUM methodology.
-        - JS vanilla
+        - Javascript
         - Typescript
         - React
         - Jest
         - Encyme
-        - Cypress
   - role: Junior Frontend Software Engineer
     time: 2018 - 2018
     company: Intelligenia, Granada
     details: |
      I have experience working with PHP, CSS3, and jQuery, utilizing these technologies to build and 
-     maintain websites. I provided support for WordPress, assisting several clients with their websites. 
+     maintain websites. I provided support for WordPress, assisting several clients with their products. 
      This included installing and configuring various plugins, such as Visual Composer for page building and Yoast SEO 
      to optimize content for search engines.
         - PHP
         - CSS3
+        - HTML5
+        - Bootstrap
         - jQuery
         - WordPress
 
