@@ -270,10 +270,10 @@ skills:
 
   toolset:
   - name: Typescript
-    level: 90%
+    level: 95%
 
   - name: Javascript
-    level: 90%
+    level: 95%
 
   - name: Angular
     level: 90%
@@ -282,12 +282,12 @@ skills:
     level: 90%
 
   - name: Jest
-    level: 90%
+    level: 95%
 
   - name: React
     level: 75%
 
-  - name: Vue (Personal learning in free time)
+  - name: Vue (Personal learning)
     level: 50%
 # 
 # footer: >
